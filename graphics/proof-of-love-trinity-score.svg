@@ -12,6 +12,9 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
   </defs>
 
   <!-- Title -->
@@ -92,11 +95,6 @@
 
   <!-- Arrow -->
   <path d="M 520,300 L 560,300" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
-    </marker>
-  </defs>
 
   <!-- Key Benefits -->
   <g transform="translate(400, 490)">
