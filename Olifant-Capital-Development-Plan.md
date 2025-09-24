@@ -77,7 +77,7 @@ Olifant Capital will be established as a $10M seed-stage venture fund operating 
 - **Stage:** Pre-seed to Seed (occasional Series A follow-ons)
 - **Initial Checks:** $100K-$250K (sweet spot: $150K)
 - **Reserves:** 50% for follow-on investments
-- **Ownership Target:** 2-5% for external deals, 10%+ for studio ventures
+- **Ownership Target:** 5-10% for external deals, 10%+ for studio ventures
 
 ### Portfolio Construction
 - **Total Portfolio:** 30-35 companies over 3-4 year investment period
