@@ -1,0 +1,115 @@
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ec4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Title -->
+  <text x="450" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    AW3 Technology Three-Pronged Business Model
+  </text>
+
+  <!-- Revenue Stream 1: Venture Services -->
+  <g transform="translate(100, 80)">
+    <rect x="0" y="0" width="200" height="350" fill="url(#grad1)" rx="10" opacity="0.9"/>
+    <text x="100" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+      Venture Services
+    </text>
+    <text x="100" y="50" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+      &amp; Consulting
+    </text>
+    <text x="100" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#fbbf24">
+      (Immediate Revenue)
+    </text>
+
+    <g font-family="Arial, sans-serif" font-size="11" fill="white">
+      <text x="10" y="110">• Software Development</text>
+      <text x="10" y="130">  $150-300/hour</text>
+
+      <text x="10" y="160">• UI/UX Design</text>
+      <text x="10" y="180">• Fundraising Support</text>
+      <text x="10" y="200">• Digital Marketing</text>
+      <text x="10" y="220">• Branding Services</text>
+
+      <text x="10" y="250" font-weight="bold">Current Status:</text>
+      <text x="10" y="270">• $20-30K/month</text>
+      <text x="10" y="290">• 54+ clients served</text>
+      <text x="10" y="310">• 100% success rate</text>
+    </g>
+  </g>
+
+  <!-- Revenue Stream 2: Product Development -->
+  <g transform="translate(350, 80)">
+    <rect x="0" y="0" width="200" height="350" fill="url(#grad2)" rx="10" opacity="0.9"/>
+    <text x="100" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+      Product Development
+    </text>
+    <text x="100" y="50" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+      &amp; IP Creation
+    </text>
+    <text x="100" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#fbbf24">
+      (Medium-Term Value)
+    </text>
+
+    <g font-family="Arial, sans-serif" font-size="11" fill="white">
+      <text x="10" y="110">• Nivana (PoL) Blockchain</text>
+      <text x="10" y="130">  Patent pending</text>
+
+      <text x="10" y="160">• SunScript Language</text>
+      <text x="10" y="180">  AI-compiled for Web3</text>
+
+      <text x="10" y="210">• MercuryIDE</text>
+      <text x="10" y="230">• MultiverseAI</text>
+
+      <text x="10" y="260" font-weight="bold">Projected Revenue:</text>
+      <text x="10" y="280">• Q3 2025 launch</text>
+      <text x="10" y="300">• $30-50K/month by Q2 2026</text>
+    </g>
+  </g>
+
+  <!-- Revenue Stream 3: Asset Holdings -->
+  <g transform="translate(600, 80)">
+    <rect x="0" y="0" width="200" height="350" fill="url(#grad3)" rx="10" opacity="0.9"/>
+    <text x="100" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+      Asset Holdings
+    </text>
+    <text x="100" y="50" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+      &amp; Investments
+    </text>
+    <text x="100" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#fbbf24">
+      (Long-Term Value)
+    </text>
+
+    <g font-family="Arial, sans-serif" font-size="11" fill="white">
+      <text x="10" y="110">• 10 Wholly-Owned Ventures</text>
+      <text x="10" y="130">• 6 Equity Stakes (1-10%)</text>
+
+      <text x="10" y="160">• Domain Portfolio</text>
+      <text x="10" y="180">  $300K-$1M value</text>
+
+      <text x="10" y="210">• Deepwaters Acquisition</text>
+      <text x="10" y="230">  DeFi platform &amp; WTR token</text>
+
+      <text x="10" y="260">• IP Portfolio</text>
+      <text x="10" y="280">  Patents &amp; trade secrets</text>
+
+      <text x="10" y="310" font-weight="bold">Est. Value: $2-3M+</text>
+    </g>
+  </g>
+
+  <!-- Bottom Summary -->
+  <rect x="50" y="455" width="800" height="35" fill="#f8fafc" stroke="#e2e8f0" rx="5"/>
+  <text x="450" y="478" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#475569">
+    Combined approach provides revenue stability, growth potential, and long-term value creation
+  </text>
+</svg>

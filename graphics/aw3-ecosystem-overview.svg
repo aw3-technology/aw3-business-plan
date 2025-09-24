@@ -1,0 +1,163 @@
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ecosystemGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1" />
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="700" fill="#f8fafc"/>
+
+  <!-- Title -->
+  <text x="500" y="40" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    AW3 Technology Ecosystem
+  </text>
+  <text x="500" y="65" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#64748b">
+    The AWS of Web3 - Decentralized Infrastructure for the Next Internet
+  </text>
+
+  <!-- Central Hub - AW3 -->
+  <g transform="translate(500, 350)">
+    <circle cx="0" cy="0" r="100" fill="url(#ecosystemGrad)" opacity="0.9"/>
+    <text x="0" y="-10" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+      AW3
+    </text>
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+      Technology
+    </text>
+    <text x="0" y="30" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#fbbf24">
+      Venture Studio
+    </text>
+  </g>
+
+  <!-- Core Products -->
+  <!-- Nivana/PoL -->
+  <g transform="translate(300, 200)">
+    <circle cx="0" cy="0" r="70" fill="#6366f1" opacity="0.8"/>
+    <text x="0" y="-5" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+      Nivana
+    </text>
+    <text x="0" y="12" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+      PoL Blockchain
+    </text>
+  </g>
+
+  <!-- SunScript -->
+  <g transform="translate(700, 200)">
+    <circle cx="0" cy="0" r="70" fill="#8b5cf6" opacity="0.8"/>
+    <text x="0" y="-5" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+      SunScript
+    </text>
+    <text x="0" y="12" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+      AI Language
+    </text>
+  </g>
+
+  <!-- MultiverseAI -->
+  <g transform="translate(300, 500)">
+    <circle cx="0" cy="0" r="70" fill="#ec4899" opacity="0.8"/>
+    <text x="0" y="-5" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+      MultiverseAI
+    </text>
+    <text x="0" y="12" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+      AI Engine
+    </text>
+  </g>
+
+  <!-- SkyBank -->
+  <g transform="translate(700, 500)">
+    <circle cx="0" cy="0" r="70" fill="#f59e0b" opacity="0.8"/>
+    <text x="0" y="-5" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+      SkyBank
+    </text>
+    <text x="0" y="12" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+      Digital Banking
+    </text>
+  </g>
+
+  <!-- Portfolio Ventures (smaller circles) -->
+  <!-- Newfound Maya -->
+  <g transform="translate(150, 300)">
+    <circle cx="0" cy="0" r="45" fill="#10b981" opacity="0.7"/>
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+      Newfound Maya
+    </text>
+  </g>
+
+  <!-- AirGallery -->
+  <g transform="translate(150, 400)">
+    <circle cx="0" cy="0" r="45" fill="#06b6d4" opacity="0.7"/>
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+      AirGallery
+    </text>
+  </g>
+
+  <!-- SoundGen -->
+  <g transform="translate(850, 300)">
+    <circle cx="0" cy="0" r="45" fill="#0ea5e9" opacity="0.7"/>
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+      SoundGen
+    </text>
+  </g>
+
+  <!-- MercuryIDE -->
+  <g transform="translate(850, 400)">
+    <circle cx="0" cy="0" r="45" fill="#7c3aed" opacity="0.7"/>
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+      MercuryIDE
+    </text>
+  </g>
+
+  <!-- Deepwaters -->
+  <g transform="translate(500, 180)">
+    <circle cx="0" cy="0" r="50" fill="#0891b2" opacity="0.7"/>
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+      Deepwaters
+    </text>
+  </g>
+
+  <!-- SVSE -->
+  <g transform="translate(500, 520)">
+    <circle cx="0" cy="0" r="50" fill="#dc2626" opacity="0.7"/>
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+      SVSE
+    </text>
+  </g>
+
+  <!-- Connection lines -->
+  <g stroke="#cbd5e1" stroke-width="1" opacity="0.5">
+    <!-- From center to main products -->
+    <line x1="425" y1="295" x2="355" y2="245"/>
+    <line x1="575" y1="295" x2="645" y2="245"/>
+    <line x1="425" y1="405" x2="355" y2="455"/>
+    <line x1="575" y1="405" x2="645" y2="455"/>
+
+    <!-- To portfolio ventures -->
+    <line x1="420" y1="340" x2="195" y2="305"/>
+    <line x1="420" y1="360" x2="195" y2="395"/>
+    <line x1="580" y1="340" x2="805" y2="305"/>
+    <line x1="580" y1="360" x2="805" y2="395"/>
+
+    <!-- To Deepwaters and SVSE -->
+    <line x1="500" y1="250" x2="500" y2="230"/>
+    <line x1="500" y1="450" x2="500" y2="470"/>
+  </g>
+
+  <!-- Legend Box -->
+  <g transform="translate(50, 580)">
+    <rect x="0" y="0" width="900" height="80" fill="white" stroke="#e2e8f0" stroke-width="1" rx="8"/>
+    <text x="20" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+      Ecosystem Components:
+    </text>
+    <g font-family="Arial, sans-serif" font-size="12" fill="#475569">
+      <text x="20" y="50">• Core Products: Nivana (PoL), SunScript, MultiverseAI, SkyBank</text>
+      <text x="20" y="68">• Portfolio Ventures: 10 wholly-owned startups + 6 equity stakes</text>
+      <text x="450" y="50">• Strategic Acquisitions: Deepwaters DeFi</text>
+      <text x="450" y="68">• Future Platforms: SVSE, 1Profile, StakPro</text>
+    </g>
+  </g>
+</svg>

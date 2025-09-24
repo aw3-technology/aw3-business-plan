@@ -1,0 +1,136 @@
+<svg viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="investGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <!-- Title -->
+  <text x="450" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Investment Opportunity
+  </text>
+
+  <!-- Current Round Box -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="380" height="200" fill="url(#investGrad)" rx="10" filter="url(#shadow)"/>
+    <text x="190" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+      Seed Round
+    </text>
+
+    <g font-family="Arial, sans-serif" font-size="16" fill="white">
+      <text x="30" y="75">Round Size: $1.5M</text>
+      <text x="30" y="105">Valuation: $10-12M (post-money)</text>
+      <text x="30" y="135">Equity Offered: 12.5-15%</text>
+      <text x="30" y="165">Minimum Investment: $25K</text>
+      <text x="30" y="195">Use: Product Development &amp; Team</text>
+    </g>
+
+    <rect x="30" y="220" width="320" height="40" fill="#fbbf24" rx="5"/>
+    <text x="190" y="245" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">
+      Targeting Close: Q1 2025
+    </text>
+  </g>
+
+  <!-- Use of Funds Breakdown -->
+  <g transform="translate(470, 80)">
+    <rect x="0" y="0" width="380" height="200" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" rx="10"/>
+    <text x="190" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1e293b">
+      Use of Funds ($1.5M)
+    </text>
+
+    <!-- Product Development -->
+    <g transform="translate(30, 50)">
+      <rect x="0" y="0" width="240" height="30" fill="#6366f1" rx="4"/>
+      <text x="10" y="20" font-family="Arial, sans-serif" font-size="13" fill="white">Product Dev (50%)</text>
+      <text x="320" y="20" font-family="Arial, sans-serif" font-size="13" fill="#1e293b">$750K</text>
+    </g>
+
+    <!-- Team Expansion -->
+    <g transform="translate(30, 90)">
+      <rect x="0" y="0" width="144" height="30" fill="#8b5cf6" rx="4"/>
+      <text x="10" y="20" font-family="Arial, sans-serif" font-size="13" fill="white">Team (30%)</text>
+      <text x="320" y="20" font-family="Arial, sans-serif" font-size="13" fill="#1e293b">$450K</text>
+    </g>
+
+    <!-- Marketing -->
+    <g transform="translate(30, 130)">
+      <rect x="0" y="0" width="72" height="30" fill="#ec4899" rx="4"/>
+      <text x="10" y="20" font-family="Arial, sans-serif" font-size="13" fill="white">Mktg (15%)</text>
+      <text x="320" y="20" font-family="Arial, sans-serif" font-size="13" fill="#1e293b">$225K</text>
+    </g>
+
+    <!-- Operations -->
+    <g transform="translate(30, 170)">
+      <rect x="0" y="0" width="24" height="30" fill="#f59e0b" rx="4"/>
+      <text x="65" y="20" font-family="Arial, sans-serif" font-size="13" fill="#1e293b">Ops (5%)</text>
+      <text x="320" y="20" font-family="Arial, sans-serif" font-size="13" fill="#1e293b">$75K</text>
+    </g>
+  </g>
+
+  <!-- Return Projections -->
+  <g transform="translate(50, 320)">
+    <text x="400" y="0" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#1e293b">
+      Projected Returns
+    </text>
+
+    <!-- Conservative -->
+    <g transform="translate(0, 30)">
+      <rect x="0" y="0" width="250" height="120" fill="#e0f2fe" stroke="#0284c7" stroke-width="1" rx="8"/>
+      <text x="125" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#075985">
+        Conservative
+      </text>
+      <g font-family="Arial, sans-serif" font-size="13" fill="#0c4a6e">
+        <text x="20" y="50">Exit: 3-5 years</text>
+        <text x="20" y="70">Valuation: $50-75M</text>
+        <text x="20" y="90">Return: 4-6x</text>
+        <text x="20" y="110">IRR: 50-60%</text>
+      </g>
+    </g>
+
+    <!-- Base Case -->
+    <g transform="translate(275, 30)">
+      <rect x="0" y="0" width="250" height="120" fill="#e9d5ff" stroke="#9333ea" stroke-width="1" rx="8"/>
+      <text x="125" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#581c87">
+        Base Case
+      </text>
+      <g font-family="Arial, sans-serif" font-size="13" fill="#4c1d95">
+        <text x="20" y="50">Exit: 5 years</text>
+        <text x="20" y="70">Valuation: $100-150M</text>
+        <text x="20" y="90">Return: 8-12x</text>
+        <text x="20" y="110">IRR: 70-85%</text>
+      </g>
+    </g>
+
+    <!-- Optimistic -->
+    <g transform="translate(550, 30)">
+      <rect x="0" y="0" width="250" height="120" fill="#dcfce7" stroke="#16a34a" stroke-width="1" rx="8"/>
+      <text x="125" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#166534">
+        Optimistic
+      </text>
+      <g font-family="Arial, sans-serif" font-size="13" fill="#14532d">
+        <text x="20" y="50">Exit: 5-7 years</text>
+        <text x="20" y="70">Valuation: $300M+</text>
+        <text x="20" y="90">Return: 25x+</text>
+        <text x="20" y="110">IRR: 100%+</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Key Investment Highlights -->
+  <g transform="translate(50, 490)">
+    <rect x="0" y="0" width="800" height="80" fill="#1e293b" rx="8"/>
+    <text x="20" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fbbf24">
+      Key Investment Highlights
+    </text>
+    <g font-family="Arial, sans-serif" font-size="13" fill="white">
+      <text x="20" y="50">✓ Patent-pending PoL consensus mechanism</text>
+      <text x="20" y="68">✓ $234K revenue (2024) with 54+ clients</text>
+      <text x="420" y="50">✓ Strategic Deepwaters acquisition ($6.78M ICO)</text>
+      <text x="420" y="68">✓ Domain portfolio worth $300K-$1M</text>
+    </g>
+  </g>
+</svg>

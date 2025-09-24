@@ -1,0 +1,175 @@
+<svg viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="portfolioGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Title -->
+  <text x="450" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    AW3 Portfolio Companies
+  </text>
+
+  <!-- Wholly-Owned Ventures Section -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="380" height="450" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" rx="8"/>
+    <rect x="0" y="0" width="380" height="50" fill="url(#portfolioGrad)" rx="8 8 0 0"/>
+    <text x="190" y="32" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+      10 Wholly-Owned Ventures
+    </text>
+
+    <g font-family="Arial, sans-serif" font-size="13" fill="#1e293b">
+      <!-- Newfound Maya -->
+      <g transform="translate(20, 70)">
+        <circle cx="10" cy="10" r="5" fill="#10b981"/>
+        <text x="25" y="10" font-weight="bold">Newfound Maya</text>
+        <text x="25" y="26" fill="#64748b">Luxury E-Commerce Platform</text>
+      </g>
+
+      <!-- AirGallery -->
+      <g transform="translate(20, 110)">
+        <circle cx="10" cy="10" r="5" fill="#06b6d4"/>
+        <text x="25" y="10" font-weight="bold">AirGallery</text>
+        <text x="25" y="26" fill="#64748b">Digital Art Platform</text>
+      </g>
+
+      <!-- SoundGen -->
+      <g transform="translate(20, 150)">
+        <circle cx="10" cy="10" r="5" fill="#0ea5e9"/>
+        <text x="25" y="10" font-weight="bold">SoundGen</text>
+        <text x="25" y="26" fill="#64748b">AI Sound Generation</text>
+      </g>
+
+      <!-- Olifant Capital -->
+      <g transform="translate(20, 190)">
+        <circle cx="10" cy="10" r="5" fill="#7c3aed"/>
+        <text x="25" y="10" font-weight="bold">Olifant Capital</text>
+        <text x="25" y="26" fill="#64748b">Web3 Venture Capital Fund</text>
+      </g>
+
+      <!-- MercuryIDE -->
+      <g transform="translate(20, 230)">
+        <circle cx="10" cy="10" r="5" fill="#a855f7"/>
+        <text x="25" y="10" font-weight="bold">MercuryIDE</text>
+        <text x="25" y="26" fill="#64748b">Cloud-Based AI Coding Environment</text>
+      </g>
+
+      <!-- Uplift -->
+      <g transform="translate(20, 270)">
+        <circle cx="10" cy="10" r="5" fill="#ec4899"/>
+        <text x="25" y="10" font-weight="bold">Uplift</text>
+        <text x="25" y="26" fill="#64748b">Empowerment Platform</text>
+      </g>
+
+      <!-- The Embassy -->
+      <g transform="translate(20, 310)">
+        <circle cx="10" cy="10" r="5" fill="#f59e0b"/>
+        <text x="25" y="10" font-weight="bold">The Embassy</text>
+        <text x="25" y="26" fill="#64748b">Cultural Exchange Platform</text>
+      </g>
+
+      <!-- Nivana -->
+      <g transform="translate(20, 350)">
+        <circle cx="10" cy="10" r="5" fill="#6366f1"/>
+        <text x="25" y="10" font-weight="bold">Nivana</text>
+        <text x="25" y="26" fill="#64748b">PoL Blockchain Protocol</text>
+      </g>
+
+      <!-- SunScript -->
+      <g transform="translate(20, 390)">
+        <circle cx="10" cy="10" r="5" fill="#8b5cf6"/>
+        <text x="25" y="10" font-weight="bold">SunScript</text>
+        <text x="25" y="26" fill="#64748b">AI Programming Language</text>
+      </g>
+
+      <!-- SVSE -->
+      <g transform="translate(20, 430)">
+        <circle cx="10" cy="10" r="5" fill="#dc2626"/>
+        <text x="25" y="10" font-weight="bold">SVSE</text>
+        <text x="25" y="26" fill="#64748b">Silicon Valley Stock Exchange</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Equity Portfolio Section -->
+  <g transform="translate(470, 80)">
+    <rect x="0" y="0" width="380" height="330" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" rx="8"/>
+    <rect x="0" y="0" width="380" height="50" fill="url(#portfolioGrad)" rx="8 8 0 0"/>
+    <text x="190" y="32" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+      6 Equity Portfolio Companies
+    </text>
+
+    <g font-family="Arial, sans-serif" font-size="13" fill="#1e293b">
+      <!-- JustiGuide -->
+      <g transform="translate(20, 70)">
+        <rect x="0" y="0" width="60" height="25" fill="#6366f1" rx="4"/>
+        <text x="30" y="17" font-size="11" text-anchor="middle" fill="white">1-10%</text>
+        <text x="75" y="10" font-weight="bold">JustiGuide</text>
+        <text x="75" y="26" fill="#64748b">Legal Technology Platform</text>
+      </g>
+
+      <!-- Baird Augustine -->
+      <g transform="translate(20, 110)">
+        <rect x="0" y="0" width="60" height="25" fill="#8b5cf6" rx="4"/>
+        <text x="30" y="17" font-size="11" text-anchor="middle" fill="white">Equity</text>
+        <text x="75" y="10" font-weight="bold">Baird Augustine</text>
+        <text x="75" y="26" fill="#64748b">Financial Services</text>
+      </g>
+
+      <!-- Obsidyan -->
+      <g transform="translate(20, 150)">
+        <rect x="0" y="0" width="60" height="25" fill="#ec4899" rx="4"/>
+        <text x="30" y="17" font-size="11" text-anchor="middle" fill="white">Equity</text>
+        <text x="75" y="10" font-weight="bold">Obsidyan</text>
+        <text x="75" y="26" fill="#64748b">Blockchain Security</text>
+      </g>
+
+      <!-- Deelz -->
+      <g transform="translate(20, 190)">
+        <rect x="0" y="0" width="60" height="25" fill="#f59e0b" rx="4"/>
+        <text x="30" y="17" font-size="11" text-anchor="middle" fill="white">Equity</text>
+        <text x="75" y="10" font-weight="bold">Deelz</text>
+        <text x="75" y="26" fill="#64748b">AI Deals Platform</text>
+      </g>
+
+      <!-- Carnomaly -->
+      <g transform="translate(20, 230)">
+        <rect x="0" y="0" width="60" height="25" fill="#10b981" rx="4"/>
+        <text x="30" y="17" font-size="11" text-anchor="middle" fill="white">Equity</text>
+        <text x="75" y="10" font-weight="bold">Carnomaly</text>
+        <text x="75" y="26" fill="#64748b">Automotive Blockchain</text>
+      </g>
+
+      <!-- EDFX -->
+      <g transform="translate(20, 270)">
+        <rect x="0" y="0" width="60" height="25" fill="#06b6d4" rx="4"/>
+        <text x="30" y="17" font-size="11" text-anchor="middle" fill="white">Equity</text>
+        <text x="75" y="10" font-weight="bold">EDFX</text>
+        <text x="75" y="26" fill="#64748b">Financial Exchange</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Strategic Acquisition -->
+  <g transform="translate(470, 440)">
+    <rect x="0" y="0" width="380" height="90" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
+    <text x="20" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">
+      Strategic Acquisition (2025)
+    </text>
+    <text x="20" y="50" font-family="Arial, sans-serif" font-size="14" fill="#451a03">
+      Deepwaters - DeFi Platform
+    </text>
+    <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="#78350f">
+      • Acquired for $1 + $500K SAFE obligations • Raised $6.78M in ICO
+    </text>
+  </g>
+
+  <!-- Summary Box -->
+  <g transform="translate(50, 550)">
+    <rect x="0" y="0" width="800" height="35" fill="#1e293b" rx="5"/>
+    <text x="400" y="23" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+      Total Portfolio: 10 Wholly-Owned Ventures + 6 Equity Stakes + 1 Strategic Acquisition
+    </text>
+  </g>
+</svg>

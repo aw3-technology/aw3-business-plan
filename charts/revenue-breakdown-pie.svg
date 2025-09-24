@@ -1,0 +1,71 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="2" dy="2" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.3"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Title -->
+  <text x="300" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    2025 YTD Revenue Breakdown
+  </text>
+
+  <!-- Pie Chart -->
+  <g transform="translate(200, 200)" filter="url(#shadow)">
+    <!-- Wryter Inc. - 44% -->
+    <path d="M 0,0 L 120,0 A 120,120 0 0,1 19.5,118.4 Z" fill="#6366f1"/>
+
+    <!-- Aquifer Investment - 27% -->
+    <path d="M 0,0 L 19.5,118.4 A 120,120 0 0,1 -93.5,75.3 Z" fill="#8b5cf6"/>
+
+    <!-- Ramp Network - 13% -->
+    <path d="M 0,0 L -93.5,75.3 A 120,120 0 0,1 -116.5,-29.4 Z" fill="#ec4899"/>
+
+    <!-- Stripe/Payments - 7% -->
+    <path d="M 0,0 L -116.5,-29.4 A 120,120 0 0,1 -84,-85.7 Z" fill="#f59e0b"/>
+
+    <!-- Other - 9% -->
+    <path d="M 0,0 L -84,-85.7 A 120,120 0 0,1 120,0 Z" fill="#10b981"/>
+  </g>
+
+  <!-- Legend -->
+  <g font-family="Arial, sans-serif" font-size="14">
+    <!-- Wryter Inc. -->
+    <rect x="380" y="100" width="20" height="20" fill="#6366f1"/>
+    <text x="410" y="115" fill="#1e293b">Wryter Inc. (44%)</text>
+    <text x="410" y="132" font-size="12" fill="#64748b">$35,400</text>
+
+    <!-- Aquifer Investment -->
+    <rect x="380" y="150" width="20" height="20" fill="#8b5cf6"/>
+    <text x="410" y="165" fill="#1e293b">Aquifer Investment (27%)</text>
+    <text x="410" y="182" font-size="12" fill="#64748b">$21,600</text>
+
+    <!-- Ramp Network -->
+    <rect x="380" y="200" width="20" height="20" fill="#ec4899"/>
+    <text x="410" y="215" fill="#1e293b">Ramp Network (13%)</text>
+    <text x="410" y="232" font-size="12" fill="#64748b">$10,218</text>
+
+    <!-- Stripe/Payments -->
+    <rect x="380" y="250" width="20" height="20" fill="#f59e0b"/>
+    <text x="410" y="265" fill="#1e293b">Stripe/Payments (7%)</text>
+    <text x="410" y="282" font-size="12" fill="#64748b">$5,434</text>
+
+    <!-- Other -->
+    <rect x="380" y="300" width="20" height="20" fill="#10b981"/>
+    <text x="410" y="315" fill="#1e293b">Other Clients (9%)</text>
+    <text x="410" y="332" font-size="12" fill="#64748b">$7,122</text>
+  </g>
+
+  <!-- Total -->
+  <text x="200" y="370" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    Total YTD Revenue: $79,774
+  </text>
+</svg>
