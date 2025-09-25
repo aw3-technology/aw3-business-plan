@@ -376,7 +376,7 @@ This phased approach balances speed-to-market with institutional-grade reliabili
 - **Projected Revenue:** Beginning Q3 2025, reaching $30K-50K monthly by Q2 2026
 
 #### 3. Asset Holdings & Investments (Long-Term)
-- Equity Stakes: 1-10% in 7 portfolio companies (including 3.5% in InTown.Guide)
+- Equity Stakes: 1-10% in 7 portfolio companies (notably 8% in Finance Inc./Baird Augustine, 3.5% in InTown.Guide)
 - Domain Portfolio: $300K-$1M estimated value
 - Token Holdings: 50,000 Zera coins (zera.community), Future SunDollar, WTR tokens (from Deepwaters acquisition), and ecosystem tokens
 - Acquired Platforms: Deepwaters DeFi exchange (acquired 2025)
@@ -1100,8 +1100,8 @@ Olifant Capital will be established as a $10M seed-stage venture fund operating 
 - **The Embassy** (theembassy.xyz) - Cultural exchange platform
 
 **Equity Portfolio Companies:**
-- **JustiGuide** - Legal tech (1-10% stake)
-- **Baird Augustine** - Financial services (equity stake)
+- **JustiGuide** - Legal tech (2% stake)
+- **Finance Inc./Baird Augustine** - Investment banking & financial services (8% stake in holding company)
 - **Obsidyan** - Blockchain security (equity stake)
 - **Deelz** - AI deals platform (equity stake)
 - **Carnomaly** - Automotive blockchain (equity stake)
