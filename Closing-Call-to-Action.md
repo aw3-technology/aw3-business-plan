@@ -113,15 +113,16 @@ This is your opportunity to partner with a team that has consistently delivered 
 ## Contact Information
 
 ### Primary Contact
-**Brandon Berglund**
+**William Schulz**
 Founder & CEO
-Email: brandon@aw3.technology
-LinkedIn: [linkedin.com/in/brandonberglund](https://linkedin.com/in/brandonberglund)
+Email: will.schulz@aw3.tech
+LinkedIn: [linkedin.com/in/will-schulz](https://linkedin.com/in/will-schulz)
+Website: [willschulz.me](https://willschulz.me)
 
 ### Investment Relations
-**Email**: invest@aw3.technology
+**Email**: investors@aw3.tech
 **Phone**: +1 (415) 555-0123
-**Website**: [www.aw3.technology](https://www.aw3.technology)
+**Website**: [https://aw3.tech](https://aw3.tech)
 
 ### Office Locations
 **Headquarters**
@@ -132,12 +133,12 @@ United States
 Miami, FL | Remote Global Team
 
 ### Social & Digital Presence
-**X (Twitter)**: [@aw3technology](https://x.com/aw3technology)
-**GitHub**: [github.com/aw3technology](https://github.com/aw3technology)
-**Blog**: [blog.aw3.technology](https://blog.aw3.technology)
+**X (Twitter)**: [@aw3tech](https://x.com/aw3tech)
+**GitHub**: [github.com/aw3tech](https://github.com/aw3tech)
+**Blog**: [blog.aw3.tech](https://blog.aw3.tech)
 
 ### Schedule a Meeting
-**Calendar Link**: [calendly.com/aw3-invest](https://calendly.com/aw3-invest)
+**Calendar Link**: [calendly.com/will-schulz](https://calendly.com/will-schulz)
 **Response Time**: Within 24 hours for qualified investors
 
 ## Final Word
@@ -152,4 +153,4 @@ This is more than an investment opportunity; it's an invitation to join a moveme
 
 *This document contains confidential and proprietary information of AW3 Technology, Inc. Distribution is limited to qualified investors and strategic partners under NDA.*
 
-**Ready to invest? Contact us today at invest@aw3.technology**
+**Ready to invest? Contact us today at investors@aw3.tech**
