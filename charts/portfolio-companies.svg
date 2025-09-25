@@ -94,27 +94,27 @@
 
   <!-- Equity Portfolio Section -->
   <g transform="translate(470, 80)">
-    <rect x="0" y="0" width="380" height="330" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" rx="8"/>
+    <rect x="0" y="0" width="380" height="370" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" rx="8"/>
     <rect x="0" y="0" width="380" height="50" fill="url(#portfolioGrad)" rx="8 8 0 0"/>
     <text x="190" y="32" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
-      6 Equity Portfolio Companies
+      7 Equity Portfolio Companies
     </text>
 
     <g font-family="Arial, sans-serif" font-size="13" fill="#1e293b">
       <!-- JustiGuide -->
       <g transform="translate(20, 70)">
         <rect x="0" y="0" width="60" height="25" fill="#6366f1" rx="4"/>
-        <text x="30" y="17" font-size="11" text-anchor="middle" fill="white">1-10%</text>
+        <text x="30" y="17" font-size="11" text-anchor="middle" fill="white">2%</text>
         <text x="75" y="10" font-weight="bold">JustiGuide</text>
         <text x="75" y="26" fill="#64748b">Legal Technology Platform</text>
       </g>
 
-      <!-- Baird Augustine -->
+      <!-- Finance Inc./Baird Augustine -->
       <g transform="translate(20, 110)">
         <rect x="0" y="0" width="60" height="25" fill="#8b5cf6" rx="4"/>
-        <text x="30" y="17" font-size="11" text-anchor="middle" fill="white">Equity</text>
-        <text x="75" y="10" font-weight="bold">Baird Augustine</text>
-        <text x="75" y="26" fill="#64748b">Financial Services</text>
+        <text x="30" y="17" font-size="11" text-anchor="middle" fill="white">8%</text>
+        <text x="75" y="10" font-weight="bold">Finance Inc./Baird Augustine</text>
+        <text x="75" y="26" fill="#64748b">Investment Banking</text>
       </g>
 
       <!-- Obsidyan -->
@@ -148,11 +148,19 @@
         <text x="75" y="10" font-weight="bold">EDFX</text>
         <text x="75" y="26" fill="#64748b">Financial Exchange</text>
       </g>
+
+      <!-- InTown.Guide -->
+      <g transform="translate(20, 310)">
+        <rect x="0" y="0" width="60" height="25" fill="#14b8a6" rx="4"/>
+        <text x="30" y="17" font-size="11" text-anchor="middle" fill="white">3.5%</text>
+        <text x="75" y="10" font-weight="bold">InTown.Guide</text>
+        <text x="75" y="26" fill="#64748b">Location-Based Platform</text>
+      </g>
     </g>
   </g>
 
   <!-- Strategic Acquisition -->
-  <g transform="translate(470, 440)">
+  <g transform="translate(470, 480)">
     <rect x="0" y="0" width="380" height="90" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
     <text x="20" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">
       Strategic Acquisition (2025)
@@ -169,7 +177,7 @@
   <g transform="translate(50, 550)">
     <rect x="0" y="0" width="800" height="35" fill="#1e293b" rx="5"/>
     <text x="400" y="23" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
-      Total Portfolio: 10 Wholly-Owned Ventures + 6 Equity Stakes + 1 Strategic Acquisition
+      Total Portfolio: 10 Wholly-Owned Ventures + 7 Equity Stakes + 1 Strategic Acquisition
     </text>
   </g>
 </svg>

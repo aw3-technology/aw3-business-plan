@@ -79,7 +79,7 @@
 
   <!-- Revenue Stream 3: Asset Holdings -->
   <g transform="translate(600, 80)">
-    <rect x="0" y="0" width="200" height="350" fill="url(#grad3)" rx="10" opacity="0.9"/>
+    <rect x="0" y="0" width="200" height="380" fill="url(#grad3)" rx="10" opacity="0.9"/>
     <text x="100" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
       Asset Holdings
     </text>
@@ -100,10 +100,13 @@
       <text x="10" y="210">• Deepwaters Acquisition</text>
       <text x="10" y="230">  DeFi platform &amp; WTR token</text>
 
-      <text x="10" y="260">• IP Portfolio</text>
-      <text x="10" y="280">  Patents &amp; trade secrets</text>
+      <text x="10" y="260">• Token Holdings</text>
+      <text x="10" y="280">  50K Zera coins + others</text>
 
-      <text x="10" y="310" font-weight="bold">Est. Value: $2-3M+</text>
+      <text x="10" y="310">• IP Portfolio</text>
+      <text x="10" y="330">  PoL + market making patents</text>
+
+      <text x="10" y="360" font-weight="bold">Est. Value: $2-3M+</text>
     </g>
   </g>
 
