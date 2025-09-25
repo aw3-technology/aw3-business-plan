@@ -133,7 +133,14 @@ Since founding, AW3 has:
 - Jonathan Chester - Strategic Partner & Advisor (CEO, Bitwage)
 - Eric Liu - Technology Advisor, Blockchain Architecture
 - Colin Lowenberg - Business Development Advisor
-- Eric Forst - Legal Advisor & Strategic Partner (CEO, Blocksee)
+- Eric Forst - Strategic Advisor & Client (CEO, Blocksee - Software Startup)
+
+**Legal Counsel**
+- Jonathan Chan - Corporate Partner at Wilson Sonsini Goodrich & Rosati
+  - Harvard Law School graduate
+  - Specializes in startup and technology law
+  - Expert in NFT and Web3 legal considerations
+  - Provides strategic legal guidance for corporate structure and fundraising
 
 **Team Expansion Plan (Priority Hires)**
 - Blockchain Protocol Engineer
@@ -142,8 +149,15 @@ Since founding, AW3 has:
 - Product Manager
 - Business Development Lead
 
-### Legal Structure
+### Legal Structure & Operations
 AW3 Technology is incorporated as a Delaware C-Corporation.
+
+**Office & Workspace:**
+- Coworking membership at Shack15 (shack15.com)
+- Location: Ferry Building, San Francisco, CA
+- Access to Silicon Valley's premier entrepreneurial ecosystem
+- Networking with entrepreneurs, innovators, and changemakers
+- Strategic location for client meetings and team collaboration
 
 ### Core Values
 "I began my journey in entrepreneurship as a non-profit founder. At AW3, our values drive everything we build — from empowering communities through technology, to ensuring sustainability, to delivering world-class products with integrity and attention to detail. We believe innovation isn't just about code and capital, it's about creating systems that are fair, inclusive, and built to last." - William Schulz, CEO
@@ -323,6 +337,7 @@ AW3 operates on a unique dual-track development model:
 - Client testimonial: "AW3 has played a critical role in our fundraising, website development and sales/marketing execution." - Jonathan Chester, CEO
 
 #### Additional Portfolio Highlights
+- **Haut Finance:** Fintech platform development and strategic advisory
 - **JustiGuide:** Branding, fundraising, and first-to-market map implementation
 - **Nivana:** Patent-pending blockchain protocol (Proof of Love) development
 - **LoveFestSF:** Event branding, marketing, and ticketing/RSVP platform
@@ -365,6 +380,7 @@ This phased approach balances speed-to-market with institutional-grade reliabili
 - Domain Portfolio: $300K-$1M estimated value
 - Token Holdings: 50,000 Zera coins (zera.community), Future SunDollar, WTR tokens (from Deepwaters acquisition), and ecosystem tokens
 - Acquired Platforms: Deepwaters DeFi exchange (acquired 2025)
+- Digital & Social Assets: @deepwatersxyz X (Twitter) account with established Web3 community following
 - IP Value: Patent portfolio including market making software patent (via Deepwaters/VatnFörn acquisition) with long-term monetization potential
 
 ### Cost Structure
@@ -1132,6 +1148,11 @@ will.schulz@aw3.tech
 
 **AW3 Technology, Inc.**
 San Francisco, CA
+
+**Office Location:**
+Shack15 - Ferry Building
+1 Ferry Building, Suite 201
+San Francisco, CA 94111
 
 ---
 
