@@ -175,9 +175,16 @@ AW3 Technology is incorporated as a Delaware C-Corporation.
 
 ## 4. PRODUCT STRATEGY & ROADMAP
 
+![AW3 Ecosystem Overview](graphics/aw3-ecosystem-overview.svg)
+*The complete AW3 Technology ecosystem spanning blockchain infrastructure, developer tools, and venture services*
+
 ### Core Products (Phase 1 Focus)
 
 #### 1. Nivana – Proof of Love (PoL) Blockchain
+
+![Proof of Love Trinity Score](graphics/proof-of-love-trinity-score.svg)
+*The revolutionary Trinity Score formula balancing stake with contribution for true decentralization*
+
 A novel consensus mechanism that balances economic stake with community contributions, creating a more equitable, energy-efficient, and socially beneficial blockchain protocol.
 
 **Key Features:**
@@ -355,6 +362,9 @@ This phased approach balances speed-to-market with institutional-grade reliabili
 ---
 
 ## 6. BUSINESS MODEL
+
+![Business Model Revenue Streams](charts/business-model-revenue-streams.svg)
+*AW3's three-pronged business model: Immediate revenue from services, medium-term value from products, and long-term value from assets*
 
 ### Revenue Streams
 
@@ -572,6 +582,9 @@ This phased approach balances speed-to-market with institutional-grade reliabili
 
 ### Pioneering a New Economic Paradigm
 
+![Econoverse Vision](graphics/econoverse-vision.svg)
+*The Econoverse: A new economic operating system built on cooperation rather than competition*
+
 The Econoverse represents AW3's grand vision for the future — a decentralized network of organizations built on blockchain technology that allows participating entities to interact through both human decision-making and programmed interactions. This concept goes beyond traditional business networks to create a new economic operating system based on collaboration rather than competition.
 
 ### Core Components of the Econoverse
@@ -779,7 +792,13 @@ The Econoverse will prioritize projects addressing these key areas:
 - Stripe/Payment Processing: $5,434 (7%)
 - Other clients: $7,122 (9%)
 
+![Revenue Breakdown Pie Chart](charts/revenue-breakdown-pie.svg)
+*2025 YTD revenue distribution showing client concentration*
+
 ### Strategic Acquisitions & Funding
+
+![Investment Opportunity](charts/investment-opportunity.svg)
+*Investment opportunity overview: Seed round details, use of funds, and projected returns*
 
 **Deepwaters Acquisition (2025):**
 - Purchase Price: $1 (nominal, reflecting distressed status)
@@ -824,6 +843,9 @@ The Econoverse will prioritize projects addressing these key areas:
 
 **5-Year Revenue Forecast (Updated Based on Actuals)**
 
+![Revenue Growth Chart](charts/revenue-growth-chart.svg)
+*AW3 Technology revenue trajectory showing historical performance and future projections*
+
 | Year | Consulting | Product | Asset Value | Total Revenue | Status |
 |------|------------|---------|-------------|---------------|--------|
 | 2024 | $234K | - | - | $234K | Actual |
@@ -835,6 +857,10 @@ The Econoverse will prioritize projects addressing these key areas:
 *2025 YTD through September, annualized projection $106K-120K
 
 **Key Financial Metrics:**
+
+![Monthly Burn Rate](charts/monthly-burn-rate.svg)
+*Current burn rate vs. projected post-funding burn rate with 18-24 month runway*
+
 - Projected Break-Even: Q4 2026
 - Burn Rate (Post-Funding): $75K-125K monthly
 - Runway with Funding: 18-24 months
@@ -861,6 +887,10 @@ The Econoverse will prioritize projects addressing these key areas:
 - Revenue Impact: $50K-100K monthly
 
 ### Exit Strategy
+
+![Valuation Components](charts/valuation-components.svg)
+*AW3 Technology valuation breakdown: Revenue, IP, assets, and strategic value components*
+
 While our primary focus is building sustainable technology with long-term impact, potential exit strategies include:
 - Strategic Acquisition: By larger Web3 or technology infrastructure companies
 - Public Offering: Once achieving significant scale and adoption
@@ -978,6 +1008,9 @@ Olifant Capital will be established as a $10M seed-stage venture fund operating 
 
 ## 15. IMPLEMENTATION TIMELINE
 
+![Timeline Roadmap](graphics/timeline-roadmap.svg)
+*Strategic timeline showing key milestones from seed funding through Series A*
+
 ### 12-Month Critical Path
 
 **Q1-Q2 2025:**
@@ -1089,6 +1122,9 @@ Olifant Capital will be established as a $10M seed-stage venture fund operating 
 - **Community Building:** Strengthened Web3 community connections
 
 ### Portfolio Ventures
+
+![Portfolio Companies](charts/portfolio-companies.svg)
+*Complete portfolio overview: 10 wholly-owned ventures, 7 equity stakes, and strategic acquisition*
 
 **Current Active Ventures:**
 - **Newfound Maya** (newfoundmaya.com) - Luxury E-Commerce platform
