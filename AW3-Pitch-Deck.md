@@ -240,7 +240,6 @@ www.aw3.tech | will.schulz@aw3.tech
 
 ### Core Team
 - **Andrew Hannebrink** - Dev Lead (Founder, Deelz)
-- **Danny Kabakibo** - Senior Developer
 
 ### Board of Advisors
 - **Ryan Baird** - CEO, Baird Augustine (Fintech)

@@ -588,7 +588,6 @@ Awareness → Free Account → Active User → Paid Upgrade → Enterprise
 #### Current Team (3 people)
 - William Schulz: CEO & Strategy
 - Andrew Hannebrink: Product Development
-- Danny Kabakibo: Engineering
 
 #### Required Hires (Priority Order)
 1. **Head of Marketing** (Q1 2025)

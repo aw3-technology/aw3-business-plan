@@ -74,15 +74,6 @@
 **Portfolio Companies:** Deelz (founder), multiple AW3 ventures
 **Contribution to AW3:** Lead developer on multiple client and internal projects, technical architecture, venture partnership through Deelz
 
-### Danny Kabakibo
-**Title:** Senior Developer & Technical Partner
-**Expertise:**
-- Frontend and backend development
-- Web3 integration
-- Cloud infrastructure
-- DevOps and deployment
-**Contribution to AW3:** Core development team member, technical implementation across portfolio companies, infrastructure management
-
 ---
 
 ## STRATEGIC PARTNERS

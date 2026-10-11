@@ -332,7 +332,6 @@ AW3 Technology has strategically accumulated a diverse portfolio of valuable ass
 ### Core Team Expertise
 - **William Schulz (CEO):** 10+ years experience, UCSB CS/Econ
 - **Andrew Hannebrink:** Development lead, Deelz founder
-- **Danny Kabakibo:** Senior developer, technical expertise
 
 ### Advisory Board Network
 - **Ryan Baird:** Fintech expertise, Baird Augustine CEO

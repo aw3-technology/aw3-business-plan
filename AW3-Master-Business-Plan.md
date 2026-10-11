@@ -1161,12 +1161,6 @@ We're not trying to be the best blockchain OR the best dev tool OR the best vent
 - Expertise in React, Node.js, Python, AWS
 - Led development for 5+ portfolio companies
 
-#### Danny Kabakibo - Senior Developer & Technical Partner
-- Blockchain and smart contract specialist
-- Contributed to multiple DeFi protocols
-- Expertise in Rust, Solidity, Web3
-- Security audit experience
-
 #### Planned Core Hires (Q1-Q2 2025)
 1. **Blockchain Protocol Engineer**
    - Lead PoL development

@@ -381,7 +381,6 @@ This is not just a technology project — it's an evolutionary leap in how human
 
 ### Core Team
 - **Andrew Hannebrink** - Development Lead (Founder of Deelz)
-- **Danny Kabakibo** - Senior Developer
 
 ### Board of Advisors
 - **Ryan Baird** - CEO, Baird Augustine (Fintech)
