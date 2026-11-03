@@ -1,5 +1,50 @@
 # Traction & Case Studies
 
+## User Growth
+
+*Source: AW3 platform user records, read 3 November 2026. November is month-to-date and excluded from averages.*
+
+**AW3 Technology** — launched with 0 users at the start of 2026; 929 users by 3 November.
+
+| Month | New Users | Total Users (End of Month) | MoM Growth |
+|-------|----------:|---------------------------:|-----------:|
+| Jan 2026 | 61 | 61 | Baseline |
+| Feb 2026 | 27 | 88 | +44.3% |
+| Mar 2026 | 17 | 105 | +19.3% |
+| Apr 2026 | 114 | 219 | +108.6% |
+| May 2026 | 125 | 344 | +57.1% |
+| Jun 2026 | 108 | 452 | +31.4% |
+| Jul 2026 | 86 | 538 | +19.0% |
+| Aug 2026 | 84 | 622 | +15.6% |
+| Sep 2026 | 111 | 733 | +17.9% |
+| Oct 2026 | 162 | 895 | +22.1% |
+| Nov 2026 (to Nov 3) | 34 | 929 | +3.8% (partial) |
+
+- **Compound monthly growth, Jan–Oct:** +34.8% (61 → 895 users, 14.7x in nine months)
+- **Average monthly growth rate, Feb–Oct:** +37.2%
+- **October:** 162 new users, the best month to date
+
+**All Projects Combined** (AW3 plus AngelSend, MultiverseAI, XRaze and Cred) — 23 users at the start of 2026 (AngelSend 15, MultiverseAI 5, XRaze 2, Cred 1); 1,136 users by 3 November.
+
+| Month | New Users | Total Users (End of Month) | MoM Growth |
+|-------|----------:|---------------------------:|-----------:|
+| Jan 2026 | 92 | 115 | +400.0% |
+| Feb 2026 | 37 | 152 | +32.2% |
+| Mar 2026 | 28 | 180 | +18.4% |
+| Apr 2026 | 128 | 308 | +71.1% |
+| May 2026 | 134 | 442 | +43.5% |
+| Jun 2026 | 116 | 558 | +26.2% |
+| Jul 2026 | 91 | 649 | +16.3% |
+| Aug 2026 | 107 | 756 | +16.5% |
+| Sep 2026 | 157 | 913 | +20.8% |
+| Oct 2026 | 187 | 1,100 | +20.5% |
+| Nov 2026 (to Nov 3) | 36 | 1,136 | +3.3% (partial) |
+
+- **Compound monthly growth, Feb–Oct:** +28.5% (115 → 1,100 users, 9.6x in nine months)
+- **Average monthly growth rate, Feb–Oct:** +29.5% (January's +400% comes off a 23-user base and is excluded)
+- **Growth since 1 January:** 23 → 1,136 users (49x)
+- **October:** 187 new users, the best month to date
+
 ## Client Success Stories
 
 ### Bitwage - $3M Crowdfunding Success
