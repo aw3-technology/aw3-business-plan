@@ -1290,9 +1290,9 @@ We're not trying to be the best blockchain OR the best dev tool OR the best vent
 ### Company Traction Metrics
 
 #### User Growth (2026)
-*Source: AW3 platform user records, read 3 November 2026. November is month-to-date and excluded from averages.*
+*Source: user records across the projects in each AW3 workspace, read 3 November 2026. Counts cover AW3's projects as a whole, not the AW3 product (app.aw3.host) alone. November is month-to-date and excluded from averages.*
 
-**AW3 Technology** — launched with 0 users at the start of 2026; 929 users by 3 November.
+**AW3 Technology projects** — the projects in the AW3 Technology workspace had 0 users at the start of 2026; 929 users by 3 November.
 
 | Month | New Users | Total Users (End of Month) | MoM Growth |
 |-------|----------:|---------------------------:|-----------:|
@@ -1312,7 +1312,7 @@ We're not trying to be the best blockchain OR the best dev tool OR the best vent
 - **Average monthly growth rate, Feb–Oct:** +37.2%
 - **October:** 162 new users, the best month to date
 
-**All Projects Combined** (AW3 plus AngelSend, MultiverseAI, XRaze and Cred) — 23 users at the start of 2026 (AngelSend 15, MultiverseAI 5, XRaze 2, Cred 1); 1,136 users by 3 November.
+**All Workspaces Combined** (AW3 Technology plus the AngelSend, MultiverseAI, XRaze and Cred workspaces) — 23 users at the start of 2026 (AngelSend 15, MultiverseAI 5, XRaze 2, Cred 1); 1,136 users by 3 November.
 
 | Month | New Users | Total Users (End of Month) | MoM Growth |
 |-------|----------:|---------------------------:|-----------:|
