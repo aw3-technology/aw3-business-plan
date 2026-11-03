@@ -149,6 +149,23 @@ www.aw3.tech | will.schulz@aw3.tech
 
 ---
 
+# SLIDE 7B: USER GROWTH
+
+## From Zero to 929 Users in Ten Months
+
+### 📈 **AW3 Internally Built Products**
+- **929 users** by 3 November 2026, all acquired in 2026
+- **+34.8% compound monthly growth**, January to October (61 → 895)
+- **162 new users in October**, the best month so far
+
+### 🌐 **All Products Combined**
+- **1,136 users**, up from 23 on 1 January (adds AngelSend, MultiverseAI, XRaze and Cred)
+- **+28.5% compound monthly growth**, January to October (115 → 1,100)
+
+*Source: product user records, read 3 November 2026.*
+
+---
+
 # SLIDE 8: BUSINESS MODEL
 
 ## Scalable Revenue with Multiple Moats
