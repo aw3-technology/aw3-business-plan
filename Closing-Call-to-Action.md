@@ -120,7 +120,7 @@ LinkedIn: [linkedin.com/in/will-schulz](https://linkedin.com/in/will-schulz)
 Website: [willschulz.me](https://willschulz.me)
 
 ### Investment Relations
-**Email**: investors@aw3.tech
+**Email**: contact@aw3.tech
 **Phone**: +1 (415) 555-0123
 **Website**: [https://aw3.tech](https://aw3.tech)
 
@@ -153,4 +153,4 @@ This is more than an investment opportunity; it's an invitation to join a moveme
 
 *This document contains confidential and proprietary information of AW3 Technology, Inc. Distribution is limited to qualified investors and strategic partners under NDA.*
 
-**Ready to invest? Contact us today at investors@aw3.tech**
+**Ready to invest? Contact us today at contact@aw3.tech**

@@ -146,7 +146,7 @@ Building the AWS of Web3
 ### 🔗 Quick Links
 - [Nivana Testnet Waitlist](https://nivana.io)
 - [SunScript Beta Access](https://sunscript.ai)
-- [Investment Inquiries](mailto:invest@aw3.tech)
+- [Investment Inquiries](mailto:contact@aw3.tech)
 - [Join Our Team](https://aw3.tech/careers)
 - [The Embassy Community](https://theembassy.xyz)
 

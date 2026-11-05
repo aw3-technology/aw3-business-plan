@@ -2885,7 +2885,7 @@ If you answered yes to these questions, there's only one more question:
 5. Terms negotiation
 
 **Contact:**
-- **Email:** invest@aw3.technology
+- **Email:** contact@aw3.tech
 - **Phone:** +1 (415) 555-0123
 - **Calendar:** calendly.com/aw3-invest
 
@@ -2923,7 +2923,7 @@ Founder & CEO
 - Calendar: calendly.com/willschulz
 
 **Investment Relations**
-- Email: invest@aw3.technology
+- Email: contact@aw3.tech
 - Website: aw3.technology
 - Deck: Available upon request
 
@@ -2974,7 +2974,7 @@ The question is whether you'll own a piece of the company building that transfor
 *Securities offered are speculative and involve high risk.*
 *This is not an offer to sell securities, which can only be made through proper documentation.*
 
-**Contact us today: invest@aw3.technology**
+**Contact us today: contact@aw3.tech**
 
 ---
 
